@@ -26,8 +26,8 @@ Para ejecutar este proyecto, siga los siguientes pasos:
 
 ### 🔹 1. Clonar el Repositorio
 ```sh
-$ git clone https://github.com/tuusuario/aprende_mejora_datos.git
-$ cd aprende_mejora_datos
+$ git clone https://github.com/alxBlues/ejercicio_ia_datos_CMCD
+$ cd ejerccio_ia_datos
 ```
 
 ### 🔹 2. Crear un Entorno Virtual (Opcional, pero Recomendado)
